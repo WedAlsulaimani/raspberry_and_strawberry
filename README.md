@@ -1,4 +1,3 @@
-# raspberry_and_strawberry
 
 # Raspberry vs Strawberry Classifier – Teachable Machine + Keras
 
